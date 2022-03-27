@@ -17,12 +17,12 @@ const emotes = {
     user: '👤'
 }
 
-const supportGuildId = ''
-const supportGuildLogChannelId = ''
+const supportGuildId = '954262179333435423'
+const supportGuildLogChannelId = '957153914631901184'
 //Specify your bot token
-const Bottoken = ''
+const Bottoken = 'OTU3Njg3MTI0OTQ0MDk3MzUw.YkCZow.vSSqx7Z6ifPAc7wXuJ90M1yMLuE'
 // Insert here your userid if you wnat to use the status command
-const ownerID = ""
+const ownerID = "941450171265474661"
 
 
 const rawEmb = () => {
